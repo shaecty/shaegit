@@ -1,2 +1,3 @@
-it's my first git file
-file name is hello world!
+my first file is losed.
+oh my god!
+I'm fucked up!
